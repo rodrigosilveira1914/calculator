@@ -1,1 +1,2 @@
-"# calculator"  init
+# Calculator
+Calculadora básica na linguagem Python
